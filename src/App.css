@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+.image{
+  width:100px;
+  height:100px;
+}
+
+.logo{
+  height: 7vmin;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ }
+ .navbar{
+  text-align: right;
+  color:white;
+  margin:10px;
+  height:60px;
+ }
+.nav-item{
+    margin: 10px;
+   text-align:right;
+   text-decoration: none;
+   display: flex;
+} 
+
